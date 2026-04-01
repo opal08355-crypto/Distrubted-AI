@@ -7,6 +7,11 @@ wheels/
 *.egg-info/
 # virtual environment
 venv/
+<<<<<<< HEAD
 .env/
 .venv/
 .env
+=======
+.env
+.venv
+>>>>>>> 2900add1b21a3479ce60963726219f2d66eb93b4

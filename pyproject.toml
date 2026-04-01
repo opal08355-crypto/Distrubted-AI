@@ -1,10 +1,15 @@
 [project]
+<<<<<<< HEAD
 name = "rag-777"
+=======
+name = "sma3213"
+>>>>>>> 2900add1b21a3479ce60963726219f2d66eb93b4
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
+<<<<<<< HEAD
     "chromadb>=1.5.5",
     "ipykernel>=7.2.0",
     "langchain-community>=0.4.1",
@@ -12,4 +17,14 @@ dependencies = [
     "langchain-text-splitters>=1.1.1",
     "pypdf>=6.9.1",
     "python-dotenv>=1.2.2",
+=======
+    "ipykernel>=7.2.0",
+    "langchain>=1.2.10",
+    "langchain-groq>=1.1.2",
+    "langchain-ollama>=1.0.1",
+    "langchain-openai>=1.1.10",
+    "openai>=2.26.0",
+    "python-dotenv>=1.2.2",
+    "tiktoken>=0.12.0",
+>>>>>>> 2900add1b21a3479ce60963726219f2d66eb93b4
 ]
